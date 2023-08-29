@@ -93,13 +93,14 @@ class ProductManager {
                     code: code,
                     stock: stock
                 };
-                return;
+                return objeto_e;
 
                
             }
         })
         if(id_e) {
             console.log(objeto_e)
+            return objeto_e;
         } else {
             console.log("Not Found");
         }
@@ -154,4 +155,4 @@ class ProductManager {
 
 
 
-module.exports = ProductManager;
+export default ProductManager; //define como export default productmanager
