@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "TV Samsung 80",
+    "description": "TV Led 80",
+    "price": 600,
+    "thumbnail": "sin Imagen",
+    "code": "abc124",
+    "stock": 22
+  },
+  {
+    "id": 2,
+    "title": "Hitachi LC200",
+    "description": "Parlante Hitachi",
+    "price": 250,
+    "thumbnail": "sin Imagen",
+    "code": "abc125",
+    "stock": 30
+  },
+  {
+    "id": 3,
+    "title": "Phillips",
+    "description": "Home T",
+    "price": 800,
+    "thumbnail": "sin Imagen",
+    "code": "abc126",
+    "stock": 25
+  },
+  {
+    "id": 4,
+    "title": "Iphone 14 Pro",
+    "description": "Celular Iphone 14 Pro",
+    "price": 1100,
+    "thumbnail": "sin Imagen",
+    "code": "abc127",
+    "stock": 32
+  },
+  {
+    "id": 5,
+    "title": "Dell Latitude 2550",
+    "description": "Notebook Dell 2550",
+    "price": 800,
+    "thumbnail": "sin Imagen",
+    "code": "abc128",
+    "stock": 18
+  },
+  {
+    "id": 6,
+    "title": "Philco Cafetera",
+    "description": "Cafetera 5 lt",
+    "price": 200,
+    "thumbnail": "sin Imagen",
+    "code": "abc129",
+    "stock": 50
+  },
+  {
+    "id": 7,
+    "title": "Kohinoor frozen",
+    "description": "Heladera Kohinoor",
+    "price": 650,
+    "thumbnail": "sin Imagen",
+    "code": "abc1210",
+    "stock": 25
+  },
+  {
+    "id": 8,
+    "title": "Play Station 5",
+    "description": "Sony Play5",
+    "price": 850,
+    "thumbnail": "sin Imagen",
+    "code": "abc1211",
+    "stock": 40
+  },
+  {
+    "id": 9,
+    "title": "Air Apple",
+    "description": "Aplle Air",
+    "price": 700,
+    "thumbnail": "sin Imagen",
+    "code": "abc112",
+    "stock": 45
+  },
+  {
+    "id": 10,
+    "title": "Camera IP Sica",
+    "description": "Camera IP Sica",
+    "price": 50,
+    "thumbnail": "sin Imagen",
+    "code": "abc113",
+    "stock": 50
+  },
+  {
+    "id": 11,
+    "title": "TV Led LG 80",
+    "description": "TV Led 80 Curvo",
+    "price": 700,
+    "thumbnail": "sin Imagen",
+    "code": "abc114",
+    "stock": 32
+  },
+  {
+    "id": 12,
+    "title": "PC Asus Gammer",
+    "description": "PC Gammer Asus",
+    "price": 800,
+    "thumbnail": "sin Imagen",
+    "code": "abc115",
+    "stock": 42
+  }
+]
